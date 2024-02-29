@@ -1,0 +1,16 @@
+{
+    "name": "form-app",
+    "version": "0.1.0",
+    "description": "This app is used to view a form from the json data recieved from the api response and then submit the responses to the backend",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "form"
+    ],
+    "author": "",
+    "license": "ISC"
+  }
+  
